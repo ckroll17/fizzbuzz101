@@ -1,5 +1,5 @@
 # Building the FizzBuzz
-###Eloquent Javascript Ch. 2
+### Eloquent Javascript Ch. 2
 
 I started with a basic for loop counting up to and equal to 100
 Next I began an if/else statement starting with the FizzBuzz search
